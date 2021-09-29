@@ -1,0 +1,6 @@
+peewee
+pymysql
+passlib  加密库
+grpcio
+grpcio-tools [protobuf]
+loguru
